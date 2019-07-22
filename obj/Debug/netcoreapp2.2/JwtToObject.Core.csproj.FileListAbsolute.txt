@@ -1,0 +1,9 @@
+C:\Users\Neander Wendel\source\repos\JwtToObject\src\JwtToObject.Core\bin\Debug\netcoreapp2.2\JwtToObject.Core.deps.json
+C:\Users\Neander Wendel\source\repos\JwtToObject\src\JwtToObject.Core\bin\Debug\netcoreapp2.2\JwtToObject.Core.dll
+C:\Users\Neander Wendel\source\repos\JwtToObject\src\JwtToObject.Core\obj\Debug\netcoreapp2.2\JwtToObject.Core.csprojAssemblyReference.cache
+C:\Users\Neander Wendel\source\repos\JwtToObject\src\JwtToObject.Core\obj\Debug\netcoreapp2.2\JwtToObject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Neander Wendel\source\repos\JwtToObject\src\JwtToObject.Core\obj\Debug\netcoreapp2.2\JwtToObject.Core.AssemblyInfoInputs.cache
+C:\Users\Neander Wendel\source\repos\JwtToObject\src\JwtToObject.Core\obj\Debug\netcoreapp2.2\JwtToObject.Core.AssemblyInfo.cs
+C:\Users\Neander Wendel\source\repos\JwtToObject\src\JwtToObject.Core\bin\Debug\netcoreapp2.2\JwtToObject.Core.pdb
+C:\Users\Neander Wendel\source\repos\JwtToObject\src\JwtToObject.Core\obj\Debug\netcoreapp2.2\JwtToObject.Core.dll
+C:\Users\Neander Wendel\source\repos\JwtToObject\src\JwtToObject.Core\obj\Debug\netcoreapp2.2\JwtToObject.Core.pdb
