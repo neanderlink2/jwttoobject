@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Neander Wendel\\source\\repos\\JwtToObject\\src\\JwtToObject.Core\\JwtToObject.Core.csproj": {}
+    "C:\\Users\\neander.teixeira\\source\\repos\\jwttoobject\\JwtToObject.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Neander Wendel\\source\\repos\\JwtToObject\\src\\JwtToObject.Core\\JwtToObject.Core.csproj": {
+    "C:\\Users\\neander.teixeira\\source\\repos\\jwttoobject\\JwtToObject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Neander Wendel\\source\\repos\\JwtToObject\\src\\JwtToObject.Core\\JwtToObject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\neander.teixeira\\source\\repos\\jwttoobject\\JwtToObject.Core.csproj",
         "projectName": "JwtToObject.Core",
-        "projectPath": "C:\\Users\\Neander Wendel\\source\\repos\\JwtToObject\\src\\JwtToObject.Core\\JwtToObject.Core.csproj",
-        "packagesPath": "C:\\Users\\Neander Wendel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Neander Wendel\\source\\repos\\JwtToObject\\src\\JwtToObject.Core\\obj\\",
+        "projectPath": "C:\\Users\\neander.teixeira\\source\\repos\\jwttoobject\\JwtToObject.Core.csproj",
+        "packagesPath": "C:\\Users\\neander.teixeira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\neander.teixeira\\source\\repos\\jwttoobject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Neander Wendel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\neander.teixeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
